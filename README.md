@@ -1,2 +1,2 @@
 # volverainc.github.io
-is it even necessary?
+it suggests activites pulled from boredapi. a simple api entegration exercise used axios.
